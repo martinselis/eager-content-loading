@@ -4,6 +4,8 @@ Showcase of several eager content preloading strategies.
 2. Link Header
 3. Preload HTML tag
 
+Article describing it: https://www.therewecode.com/posts/implementing-eager-resource-loading-strategies
+
 ## How to run
 
 HTTP/2 Push requires HTTPS connection, therefore using Docker with nginx that will create a certificate on startup.
